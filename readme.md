@@ -4,7 +4,7 @@ ESLint rules for my projects
 
 ## Installation
 ```bash
-yarn add eslint-config-amyers
+yarn add git://github.com/andrewmyers/eslint-config-amyers.git
 ```
 
 ## Usage
